@@ -1,2 +1,2 @@
-# new-learning-project
+learning
  my new project
